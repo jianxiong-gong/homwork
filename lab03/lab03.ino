@@ -9,4 +9,4 @@ void loop() {
     digitalWrite(LED_PIN, HIGH);
   else
     digitalWrite(LED_PIN, LOW);
-}
+}//优化逻辑
