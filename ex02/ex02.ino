@@ -8,4 +8,4 @@ void loop() {
     pre = now;
     digitalWrite(LED_PIN, !digitalRead(LED_PIN));
   }
-}//优化闪烁逻辑
+}//优化闪烁逻辑//最终版本
