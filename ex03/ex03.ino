@@ -15,4 +15,4 @@ void loop(){
       else{on=1;t=now;digitalWrite(LED_PIN,1);}
     }
   }
-}
+}//优化逻辑
